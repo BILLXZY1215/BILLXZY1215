@@ -25,7 +25,7 @@
 <br />
 <br />
 
-Hi, I'm Bill Xiong, a third year student from Univeristy of Nottigham, Ningbo China🚀, currently, I'm a front-end engineer in uFair 🙍🏽‍♂️ [@uFair](https://ufair.net.cn/#home), and a Research fellow in ucc 👨🏽‍💻 [@ucc](https://https://unnc-ucc.github.io//). Beside's programming, I enjoy rock music and basketball.
+Hi, I'm Bill Xiong, a third year student from Univeristy of Nottigham, Ningbo China🚀, currently, I'm a front-end engineer in uFair 🙍🏽‍♂️ [@uFair](https://ufair.net.cn/#home), and a Research fellow in ucc 👨🏽‍💻 [@ucc](https://https://unnc-ucc.github.io/). Beside's programming, I enjoy rock music and basketball.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   

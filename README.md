@@ -31,7 +31,7 @@ Hi, I'm Bill Xiong, a third year student from Univeristy of Nottigham, Ningbo Ch
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
+<!-- - 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP); -->
 - 🌱 I’m currently learning JavaScript, React.js, Vue.js; 
 - 👯 I’m interested in research areas about NLP (Natural Language Processing) and CV (Computer vision).
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
@@ -61,12 +61,12 @@ Hi, I'm Bill Xiong, a third year student from Univeristy of Nottigham, Ningbo Ch
 ⭐️ From [abhisheknaiidu](https://github.com/abhisheknaiidu) -->
 
 
-<a href="https://github.com/abhisheknaiidu/A-POP">
+<!-- <a href="https://github.com/abhisheknaiidu/A-POP">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=A-POP" />
 </a>
 
 <a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=IIITDMJ-GPA" />
-</a>
+</a> -->
 
 

@@ -54,7 +54,6 @@ Hi, I'm Zeyu Xiong, you can call be Bill as well. I'm currently a third year stu
 
 
 ![Zeyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=BILLXZY1215)]()
-⭐️ From [abhisheknaiidu](https://github.com/abhisheknaiidu) -->
 
 
 <!-- <a href="https://github.com/abhisheknaiidu/A-POP">

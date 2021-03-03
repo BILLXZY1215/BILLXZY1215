@@ -1,11 +1,11 @@
-### Hey 👋🏽, I'm [Bill!]() 
+### Hey 👋🏽, I'm Zeyu!
 
 <!-- <a href="https://twitter.com/geeky_abhiz">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> -->
-<!-- <a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/%E6%B3%BD%E5%AE%87-%E7%86%8A-5940b01a2/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> -->
+</a>
 <!-- <a href="https://t.me/abhisheknaiidu">
   <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a> -->
@@ -16,7 +16,7 @@
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a> -->
 <a href="https://leetcode.com/BILLXZY1215/">
-  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Bill's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <!-- <a href="https://www.codechef.com/users/abhisheknaidu">
   <img align="left" alt="Abhishek's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
@@ -25,7 +25,7 @@
 <br />
 <br />
 
-Hi, I'm Bill Xiong, a third year student from Univeristy of Nottigham, Ningbo China🚀, currently, I'm a front-end engineer in uFair 🙍🏽‍♂️ [@uFair](https://ufair.net.cn/#home), and a Research fellow in ucc 👨🏽‍💻 [@ucc](https://unnc-ucc.github.io/). Beside's programming, I enjoy rock music and basketball.
+Hi, I'm Zeyu Xiong, you can call be Bill as well. I'm currently a third year student from Univeristy of Nottigham, Ningbo China🚀, currently, I'm a front-end engineer in uFair 🙍🏽‍♂️ [@uFair](https://ufair.net.cn/#home), and a Research fellow in ucc 👨🏽‍💻 [@ucc](https://unnc-ucc.github.io/). Beside's programming, I enjoy rock music and basketball.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   

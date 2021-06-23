@@ -25,7 +25,7 @@
 <br />
 <br />
 
-Hi, I'm Zeyu Xiong, you can call be Bill as well. I'm a third year student from Univeristy of Nottigham, Ningbo China🚀, currently, I'm a front-end engineer in yashi 🙍🏽‍♂️ [@yashi](https://taoyoumu.yashihq.com/), uFair 🙍🏽‍♂️ [@uFair](https://ufair.net.cn/#home) and a Research fellow in ucc 👨🏽‍💻 [@ucc](https://unnc-ucc.github.io/). Beside's programming, I enjoy rock music and basketball. Here is my personal [blog](https://billxzy1215.github.io/).
+Hi, I'm Zeyu Xiong, you can call be Bill as well. I'm a third year student from Univeristy of Nottigham, Ningbo China🚀, currently, I'm a front-end engineer trainee in yashi 🙍🏽‍♂️ [@yashi](https://taoyoumu.yashihq.com/), uFair 🙍🏽‍♂️ [@uFair](https://ufair.net.cn/#home) and a Research fellow in ucc 👨🏽‍💻 [@ucc](https://unnc-ucc.github.io/). Beside's programming, I enjoy rock music and basketball. Here is my personal [blog](https://billxzy1215.github.io/).
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   

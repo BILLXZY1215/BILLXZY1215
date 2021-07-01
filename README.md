@@ -56,12 +56,5 @@ Hi, I'm Zeyu Xiong, you can call be Bill as well. I'm a final year student from 
 ![Zeyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=BILLXZY1215)
 
 
-<!-- <a href="https://github.com/abhisheknaiidu/A-POP">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=A-POP" />
-</a>
-
-<a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=IIITDMJ-GPA" />
-</a> -->
-
+![](https://komarev.com/ghpvc/?username=BILLXZY1215&color=blueviolet)
 

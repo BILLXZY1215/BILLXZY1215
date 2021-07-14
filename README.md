@@ -27,7 +27,7 @@
 
 Hi, I'm Zeyu Xiong, you can call be Bill as well. I'm a final year student from Univeristy of Nottigham, Ningbo China🚀, currently, I'm a front-end engineer trainee in yashi 🙍🏽‍♂️ [@yashi](https://taoyoumu.yashihq.com/), uFair 🙍🏽‍♂️ [@uFair](https://ufair.net.cn/#home) and a Research fellow in ucc 👨🏽‍💻 [@ucc](https://unnc-ucc.github.io/). Beside's programming, I enjoy rock music and basketball. Here is my personal [blog](https://billxzy1215.github.io/).
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="350" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
@@ -40,12 +40,9 @@ Hi, I'm Zeyu Xiong, you can call be Bill as well. I'm a final year student from 
 - 📫 How to reach me: scyzx2@gmail.com;
 <!-- - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BILLXZY1215&show_icons=true&locale=en&layout=compact&theme=radical" alt="Bill" /></p>
+![Zeyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=BILLXZY1215)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BILLXZY1215&show_icons=true&locale=en&theme=tokyonight" alt="Bill" /></p>
-<!-- ![Zeyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=BILLXZY1215)
-
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=BILLXZY1215&show_icons=true&locale=en&layout=compact&theme=radical) -->
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=BILLXZY1215&show_icons=true&locale=en&layout=compact&theme=radical)
 
 ![Snake Game](https://raw.githubusercontent.com/BILLXZY1215/BILLXZY1215/output/github-contribution-grid-snake.svg)
 

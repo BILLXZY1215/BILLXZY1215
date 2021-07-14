@@ -43,9 +43,9 @@ Hi, I'm Zeyu Xiong, you can call be Bill as well. I'm a final year student from 
 <br/>
 <br/>
 
-![Zeyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=BILLXZY1215)
+![Zeyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=BILLXZY1215&theme=synthwave&show_icons=true&count_private=true)
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=BILLXZY1215&show_icons=true&locale=en&layout=compact&theme=radical)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=BILLXZY1215&show_icons=true&theme=radical&langs_count=10&layout=compact)
 
 ![Snake Game](https://raw.githubusercontent.com/BILLXZY1215/BILLXZY1215/output/github-contribution-grid-snake.svg)
 

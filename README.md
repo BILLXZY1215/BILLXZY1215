@@ -42,7 +42,7 @@ Hi, I'm Zeyu Xiong, you can call be Bill as well. I'm a final year student from 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BILLXZY1215&show_icons=true&locale=en&layout=compact&theme=radical" alt="Bill" /></p>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BILLXZY1215&show_icons=true&locale=en&theme=tokyonight" alt="Bill" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BILLXZY1215&show_icons=true&locale=en&theme=tokyonight" alt="Bill" width="410" /></p>
 <!-- ![Zeyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=BILLXZY1215)
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=BILLXZY1215&show_icons=true&locale=en&layout=compact&theme=radical) -->

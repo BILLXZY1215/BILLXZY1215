@@ -27,7 +27,7 @@
 
 Hi, I'm Zeyu Xiong, you can call be Bill as well. I'm a final year student from Univeristy of Nottigham, Ningbo China🚀, currently, I'm a front-end engineer trainee in yashi 🙍🏽‍♂️ [@yashi](https://taoyoumu.yashihq.com/), uFair 🙍🏽‍♂️ [@uFair](https://ufair.net.cn/#home) and a Research fellow in ucc 👨🏽‍💻 [@ucc](https://unnc-ucc.github.io/). Beside's programming, I enjoy rock music and basketball. Here is my personal [blog](https://billxzy1215.github.io/).
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="600" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" />
   
 **Talking about Personal Stuffs:**
 
@@ -39,18 +39,6 @@ Hi, I'm Zeyu Xiong, you can call be Bill as well. I'm a final year student from 
 <!-- - ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far! -->
 - 📫 How to reach me: scyzx2@gmail.com;
 <!-- - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view) -->
-
-<!-- **Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BILLXZY1215&show_icons=true&locale=en&layout=compact&theme=radical" alt="Bill" /></p>
 

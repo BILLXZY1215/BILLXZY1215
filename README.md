@@ -52,10 +52,9 @@ Hi, I'm Zeyu Xiong, you can call be Bill as well. I'm a final year student from 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> -->
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=BILLXZY1215" alt="Zeyu's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BILLXZY1215&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Language">
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BILLXZY1215&show_icons=true&locale=en&layout=compact&theme=radical" alt="Bill" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BILLXZY1215&show_icons=true&locale=en&theme=tokyonight" alt="Bill" width="410" /></p>
 <!-- ![Zeyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=BILLXZY1215)
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=BILLXZY1215&show_icons=true&locale=en&layout=compact&theme=radical) -->

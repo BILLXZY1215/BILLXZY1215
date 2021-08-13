@@ -21,6 +21,9 @@
 <!-- <a href="https://www.codechef.com/users/abhisheknaidu">
   <img align="left" alt="Abhishek's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a> -->
+<a href="https://www.researchgate.net/profile/Zeyu-Xiong-5">
+  <img align="left" alt="Bill's ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />
+</a>
 
 <br />
 <br />

@@ -35,7 +35,7 @@ Hi, I'm Zeyu Xiong, you can call be Bill as well. I'm a final year student from 
 **Talking about Personal Stuffs:**
 
 <!-- - 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP); -->
-- 🌱 I’m currently learning JavaScript, React.js, Vue.js; 
+- 🌱 I’m currently learning JavaScript, React.js, Vue.js, React Native, Flutter.
 - 👯 I’m interested in research areas about NLP (Natural Language Processing) and CV (Computer vision).
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;

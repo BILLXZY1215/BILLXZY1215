@@ -51,6 +51,8 @@ Hi, I'm Zeyu, you can call be Bill as well. I'm a final year student from the Un
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=BILLXZY1215&show_icons=true&theme=radical&langs_count=10&layout=compact)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=BILLXZY1215&include_all_commits=true&hide_border=true&theme=dark)
+
 ![Snake Game](https://raw.githubusercontent.com/BILLXZY1215/BILLXZY1215/output/github-contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=BILLXZY1215&color=blueviolet)

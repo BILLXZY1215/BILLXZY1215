@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Hi, I'm Zeyu, you can call be Bill as well. I'm a senior undergraduate from the University of Nottigham, Ningbo China🚀. Currently, I'm a front-end engineer in uFair 🙍🏽‍♂️ [@uFair](https://ufair.net.cn/#home) & allLink, and a Research fellow in ucc 👨🏽‍💻 [@ucc](https://unnc-ucc.github.io/). In addition, I'm also one of the co-founder of Serendipity-Tech. Beside's programming, I enjoy rock music and basketball. Here is my personal [blog](https://billxzy1215.github.io/).
+Hi, I'm Zeyu, you can call be Bill as well. I'm a senior undergraduate from the University of Nottigham, Ningbo China🚀. Currently, I'm a full-stack engineer in uFair 🙍🏽‍♂️ [@uFair](https://ufair.net.cn/#home) & front-end engineer in allLink, and a Research fellow in ucc 👨🏽‍💻 [@ucc](https://unnc-ucc.github.io/). In addition, I'm also one of the co-founder of Serendipity-Tech. Beside's programming, I enjoy rock music and basketball. Here is my personal [blog](https://billxzy1215.github.io/).
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   

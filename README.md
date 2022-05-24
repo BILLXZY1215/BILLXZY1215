@@ -41,8 +41,8 @@ Hi, I'm Zeyu, you can call be Bill as well. I'm a senior undergraduate from the 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BILLXZY1215&include_all_commits=true&hide_border=true&theme=dark)
 
 ![Snake Game](https://raw.githubusercontent.com/BILLXZY1215/BILLXZY1215/output/github-contribution-grid-snake.svg)
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=BILLXZY1215&theme=github&count_private=true)
+<!-- 
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=BILLXZY1215&theme=github&count_private=true) -->
 
 ![](https://komarev.com/ghpvc/?username=BILLXZY1215&color=blueviolet)
 

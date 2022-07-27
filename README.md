@@ -28,7 +28,7 @@ Hi, I'm Zeyu, you can call me Bill as well. I'm an incoming MPhil student at the
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 <!-- - ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far! -->
-- 📫 How to reach me: scyzx2@gmail.com;
+- 📫 How to reach me: zxiong666@connect.hkust-gz.edu.cn;
 <!-- - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view) -->
 
 <br/>

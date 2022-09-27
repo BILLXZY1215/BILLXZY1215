@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Hi, I'm Zeyu, you can call me Boby as well. I'm a MPhil student at the Hong Kong University of Science and Technology (Guangzhou). Currently, I'm a Research fellow in APEX 👨🏽‍💻 [@APEX](https://www.mingmingfan.com/lab/index.html). I've got my bachelor's degree from University of Nottingham (Computer Science with Artificial Intelligence) @ Summer 2022. Before June 2022, I was a full-stack engineer in uFair 🙍🏽‍♂️ [@uFair](https://ufair.net.cn/#home) & front-end engineer in allLink, and a research fellow in ucc 👨🏽‍💻 [@ucc](https://unnc-ucc.github.io/). In addition, I'm also the co-founder of Serendipity-Tech. Beside's programming, I enjoy rock music and basketball. Here is my personal [blog](https://billxzy1215.github.io/).
+Hi, I'm Zeyu, you can call me Bill as well. I'm a MPhil student at the Hong Kong University of Science and Technology (Guangzhou). Currently, I'm a Research fellow in APEX 👨🏽‍💻 [@APEX](https://www.mingmingfan.com/lab/index.html). I've got my bachelor's degree from University of Nottingham (Computer Science with Artificial Intelligence) @ Summer 2022. Before June 2022, I was a full-stack engineer in uFair 🙍🏽‍♂️ [@uFair](https://ufair.net.cn/#home) & front-end engineer in allLink, and a research fellow in ucc 👨🏽‍💻 [@ucc](https://unnc-ucc.github.io/). In addition, I'm also the co-founder of Serendipity-Tech. Beside's programming, I enjoy rock music and basketball. Here is my personal [blog](https://billxzy1215.github.io/).
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   

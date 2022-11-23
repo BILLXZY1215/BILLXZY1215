@@ -25,7 +25,7 @@ Hi, I'm Zeyu, you can call me Bill as well. I'm a MPhil student at the Hong Kong
 
 <!-- - 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP); -->
 - 🌱 I’m currently learning JavaScript, React.js, Vue.js, React Native, Flutter.
-- 👯 I’m interested in research areas about Human-Computer Interaction (HCI) and Computer Music, extension areas include Natural Language Processing (NLP) and Human-Vehicle Interaction (HVI).
+- 👯 I’m interested in research areas about Human-Computer Interaction (HCI), Accessibility, Ubiquitous Computing and Computer Music, extension areas include Natural Language Processing (NLP) and Human-Vehicle Interaction (HVI).
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 <!-- - ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far! -->

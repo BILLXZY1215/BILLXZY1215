@@ -36,8 +36,9 @@ Hi, I'm Zeyu, you can call me Bill as well. I'm a MPhil student at the Hong Kong
 <hr>
 
 ![Zeyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=BILLXZY1215&theme=tokyonight&show_icons=true&count_private=true)
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=BILLXZY1215&show_icons=true&theme=radical&langs_count=10&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BILLXZY1215&include_all_commits=true&hide_border=true&theme=dark)
+
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=BILLXZY1215&show_icons=true&theme=radical&langs_count=10&layout=compact)
 
 ![Snake Game](https://raw.githubusercontent.com/BILLXZY1215/BILLXZY1215/output/github-contribution-grid-snake.svg)
 <!-- 

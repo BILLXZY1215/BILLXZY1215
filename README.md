@@ -49,6 +49,12 @@ Hi, I'm Zeyu, you can call me Bill as well. I'm a MPhil student at the Hong Kong
 
 ![](https://komarev.com/ghpvc/?username=BILLXZY1215&color=blueviolet)
 
+![](https://img.shields.io/github/stars/BILLXZY1215/BILLXZY1215?color=purple)
+
+![](https://img.shields.io/github/forks/BILLXZY1215/BILLXZY1215?color=purple)
+
+![](https://img.shields.io/github/contributors/BILLXZY1215/BILLXZY1215?color=purple)
+
 
 
 

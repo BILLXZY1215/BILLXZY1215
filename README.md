@@ -44,7 +44,7 @@ Hi, I'm Zeyu, you can call me Bill as well. I'm a MPhil student in [Computationa
 <!-- 
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=BILLXZY1215&theme=github&count_private=true) -->
 
-![](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=BILLXZY1215&repo=BILLXZY1215)
+<!-- ![](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=BILLXZY1215&repo=BILLXZY1215) -->
 
 ![](https://komarev.com/ghpvc/?username=BILLXZY1215&color=blueviolet)
 ![](https://img.shields.io/github/stars/BILLXZY1215/BILLXZY1215?color=blueviolet)

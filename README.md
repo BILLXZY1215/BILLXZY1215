@@ -35,10 +35,13 @@ Hi, I'm Zeyu, you can call me Bill as well. I'm a MPhil student in [Computationa
 <br/>
 <hr>
 
-![Zeyu's GitHub stats](https://readme-stats.clckblog.space/api?username=BILLXZY1215&theme=tokyonight&show_icons=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=BILLXZY1215&include_all_commits=true&hide_border=true&theme=dark)
+| <img align="center" src="https://readme-stats.clckblog.space/api?username=BILLXZY1215&theme=tokyonight&show_icons=true&count_private=true" alt="Zeyu's github stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BILLXZY1215&include_all_commits=true&hide_border=true&theme=dark" /> | <img align="center" src="https://readme-stats.clckblog.space/api/top-langs?username=BILLXZY1215&show_icons=true&theme=radical&langs_count=10&layout=compact" /> |
+| ------------- | ------------- | ------------- |
 
-![Most Used Language](https://readme-stats.clckblog.space/api/top-langs?username=BILLXZY1215&show_icons=true&theme=radical&langs_count=10&layout=compact)
+<!-- ![Zeyu's GitHub stats](https://readme-stats.clckblog.space/api?username=BILLXZY1215&theme=tokyonight&show_icons=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BILLXZY1215&include_all_commits=true&hide_border=true&theme=dark)
+ -->
+<!-- ![Most Used Language](https://readme-stats.clckblog.space/api/top-langs?username=BILLXZY1215&show_icons=true&theme=radical&langs_count=10&layout=compact) -->
 
 ![Snake Game](https://raw.githubusercontent.com/BILLXZY1215/BILLXZY1215/output/github-contribution-grid-snake.svg)
 <!-- 

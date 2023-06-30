@@ -25,8 +25,8 @@ Hi, I'm Zeyu, you can call me Bill as well. I'm a MPhil student in [Computationa
 
 <!-- - 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP); -->
 - 🌱 I’m currently learning Web Development (JavaScript, React.js, Vue.js, React Native, Flutter) and Embedded System Development (C++, Linux).
-- 👯 I’m interested in research areas about Human-Computer Interaction (HCI), Accessibility, Ubiquitous Computing, and Computer Music, and **I'm looking for a Ph.D. position @ 24 Fall**.
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 👯 I’m interested in research areas about Human-Computer Interaction (HCI), Accessibility, Ubiquitous Computing, and Computer Music.
+- 🤔 **I'm looking for a Ph.D. position @ 24 Fall**.
 - 💬 Ask me about anything, I am happy to help;
 <!-- - ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far! -->
 - 📫 How to reach me: zxiong666@connect.hkust-gz.edu.cn;

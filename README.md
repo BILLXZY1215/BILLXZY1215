@@ -8,7 +8,7 @@
   <img align="left" alt="Bill's ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />
 </a>
 
-<a href="[https://www.researchgate.net/profile/Zeyu-Xiong-5](https://scholar.google.com/citations?user=NCjeaFIAAAAJ&hl=en)">
+<a href="https://scholar.google.com/citations?user=NCjeaFIAAAAJ&hl=en">
   <img align="left" alt="Bill's Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
 </a>
 

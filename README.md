@@ -43,7 +43,10 @@ Hi, I'm Zeyu, you can call me Bill as well. I'm a MPhil student in [Computationa
  -->
 <!-- ![Most Used Language](https://readme-stats.clckblog.space/api/top-langs?username=BILLXZY1215&show_icons=true&theme=radical&langs_count=10&layout=compact) -->
 
-![Snake Game](https://raw.githubusercontent.com/BILLXZY1215/BILLXZY1215/output/github-contribution-grid-snake.svg)
+<!-- ![Snake Game](https://raw.githubusercontent.com/BILLXZY1215/BILLXZY1215/output/github-contribution-grid-snake.svg) -->
+
+![Snake Game](https://github.com/BILLXZY215/BILLXZY215/blob/output/github-contribution-grid-snake2.svg)
+
 <!-- 
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=BILLXZY1215&theme=github&count_private=true) -->
 

@@ -26,7 +26,6 @@ Hi, I'm Zeyu, you can call me Bill as well. I'm a MPhil candidate in [Computatio
 <!-- - 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP); -->
 - 🌱 I’m currently learning Web Development (JavaScript, React.js, Vue.js, React Native, Flutter) and Embedded System Development (C++, Linux).
 - 👯 I’m interested in research areas about Human-Computer Interaction (HCI), Accessibility, Ubiquitous Computing, Software Engineering, and Computer Music.
-- 🤔 **I'm looking for a Ph.D. program @ 24 Fall**.
 - 💬 Ask me about anything, I am happy to help;
 <!-- - ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far! -->
 - 📫 How to reach me: zxiong666@connect.hkust-gz.edu.cn;
@@ -45,7 +44,7 @@ Hi, I'm Zeyu, you can call me Bill as well. I'm a MPhil candidate in [Computatio
 
 <!-- ![Snake Game](https://raw.githubusercontent.com/BILLXZY1215/BILLXZY1215/output/github-contribution-grid-snake.svg) -->
 
-<!-- ![Snake Game](https://github.com/BILLXZY1215/BILLXZY1215/blob/output/github-contribution-grid-snake2.svg) -->
+![Snake Game](https://github.com/BILLXZY1215/BILLXZY1215/blob/output/github-contribution-grid-snake2.svg)
 
 <!-- 
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=BILLXZY1215&theme=github&count_private=true) -->

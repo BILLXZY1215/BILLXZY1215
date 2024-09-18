@@ -25,7 +25,7 @@ Hi, I'm Zeyu, you can call me Bill as well. I'm a PhD student at [ETH Zurich](ht
 
 <!-- - 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP); -->
 - 🌱 I’m currently learning Web Development (JavaScript, React.js, Vue.js, React Native, Flutter) and Embedded System Development (C++, Linux).
-- 👯 I’m interested in research areas about Human-Computer Interaction (HCI), Human-AI Collaboration, Accessibility, Ubiquitous Computing, Software Engineering, and Computer Music.
+- 👯 I’m interested in research areas about Human-Computer Interaction (HCI), Human-AI Collaboration, Educational Technology, Accessibility, Ubiquitous Computing, Software Engineering, and Computer Music.
 - 💬 Ask me about anything, I am happy to help;
 <!-- - ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far! -->
 - 📫 How to reach me: zeyu.xiong@inf.ethz.ch;

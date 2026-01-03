@@ -1,4 +1,4 @@
-### Hey 👋🏽
+<!-- ### Hey 👋🏽
 
 <a href="https://www.linkedin.com/in/%E6%B3%BD%E5%AE%87-%E7%86%8A-5940b01a2/">
   <img align="left" alt="Bill's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -14,6 +14,7 @@
 
 <br />
 <br />
+-->
 
 <!--
 Hi, I'm Zeyu, you can call me Bobby as well. I'm a research fellow at [ETH Zurich](https://ethz.ch/en.html), [Department of Computer Science (D-INFK)](https://inf.ethz.ch/). Currently, I'm a Research fellow in PEACH Lab 🍑 [@PEACHLAB](https://peachlab.inf.ethz.ch/). I also spent very nice 2 years in APEX 👨🏽‍💻 [@APEX](https://www.mingmingfan.com/lab/index.html) research group from 2022 to 2024. I've got my Master's degree from [The Hong Kong University of Science and Technology](https://hkust.edu.hk/) ([Computational Media and Arts](https://cma.hkust-gz.edu.cn/)) @ Summer 2024, and Bachelor's degree from [University of Nottingham](https://www.nottingham.ac.uk/) ([Computer Science with Artificial Intelligence](https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/Computer-Science-with-Artificial-Intelligence-BSc-Hons-U6UCMPAI.html)) @ Summer 2022. Before June 2022, I was a full-stack software engineer in uFair 🙍🏽‍♂️ [@uFair](https://ufair.net.cn/#home) & front-end engineer in allLink, and a research fellow in User-Centric-Computing Group @ [UNNC](https://www.nottingham.edu.cn/en/index.aspx). In addition, I'm also the co-founder of Serendipity-Tech. Besides programming, I enjoy rock music and basketball. Here is my personal [website](https://www.zeyuxiong.com/).
@@ -34,14 +35,16 @@ Hi, I'm Zeyu, you can call me Bobby as well. I'm a research fellow at [ETH Zuric
 <!-- - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view) -->
    
 <br/>
-<hr>
+<!-- <hr> -->
 
 <!-- 
 | <img align="center" src="https://readme-stats.clckblog.space/api?username=BILLXZY1215&theme=tokyonight&show_icons=true&count_private=true" alt="Github stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BILLXZY1215&include_all_commits=true&hide_border=true&theme=dark" /> | <img align="center" src="https://readme-stats.clckblog.space/api/top-langs?username=BILLXZY1215&show_icons=true&theme=radical&langs_count=10&layout=compact" /> |
 | ------------- | ------------- | ------------- |
 -->
 
+<!-- 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BILLXZY1215&include_all_commits=true&hide_border=true&theme=dark" />
+ -->
 
 <!-- ![Zeyu's GitHub stats](https://readme-stats.clckblog.space/api?username=BILLXZY1215&theme=tokyonight&show_icons=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BILLXZY1215&include_all_commits=true&hide_border=true&theme=dark)

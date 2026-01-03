@@ -36,8 +36,12 @@ Hi, I'm Zeyu, you can call me Bobby as well. I'm a research fellow at [ETH Zuric
 <br/>
 <hr>
 
-| <img align="center" src="https://readme-stats.clckblog.space/api?username=BILLXZY1215&theme=tokyonight&show_icons=true&count_private=true" alt="Zeyu's github stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BILLXZY1215&include_all_commits=true&hide_border=true&theme=dark" /> | <img align="center" src="https://readme-stats.clckblog.space/api/top-langs?username=BILLXZY1215&show_icons=true&theme=radical&langs_count=10&layout=compact" /> |
+<!-- 
+| <img align="center" src="https://readme-stats.clckblog.space/api?username=BILLXZY1215&theme=tokyonight&show_icons=true&count_private=true" alt="Github stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BILLXZY1215&include_all_commits=true&hide_border=true&theme=dark" /> | <img align="center" src="https://readme-stats.clckblog.space/api/top-langs?username=BILLXZY1215&show_icons=true&theme=radical&langs_count=10&layout=compact" /> |
 | ------------- | ------------- | ------------- |
+-->
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BILLXZY1215&include_all_commits=true&hide_border=true&theme=dark" />
 
 <!-- ![Zeyu's GitHub stats](https://readme-stats.clckblog.space/api?username=BILLXZY1215&theme=tokyonight&show_icons=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BILLXZY1215&include_all_commits=true&hide_border=true&theme=dark)
